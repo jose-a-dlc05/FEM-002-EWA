@@ -1,0 +1,6 @@
+*-template.md
+preview.jpg
+frontend/node_modules
+backend/node_modules
+*.js.map
+
